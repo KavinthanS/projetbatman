@@ -3,7 +3,7 @@
    ============================== */
 @import url("./reset.css");
 :root{
-    --bgcolor-theme : rgb(23, 123, 151);
+    --bgcolor-theme : rgba(45, 52, 54,1.0);
     --bgcolor-header: #222;
     --bgcolor-list: rgba(223, 230, 233,1.0);
     --letter-color: #fff;
