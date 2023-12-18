@@ -3,7 +3,7 @@
    ============================== */
 @import url("./reset.css");
 :root{
-    --bgcolor-theme : rgba(45, 52, 54,1.0);
+    --bgcolor-theme : rgb(23, 123, 151);
     --bgcolor-header: #222;
     --bgcolor-list: rgba(223, 230, 233,1.0);
     --letter-color: #fff;
@@ -57,7 +57,7 @@ footer *{
 }
 
 /* media queris */
-@media screen and (max-width: 80rem;){
+@media screen and (max-width: 80rem){
     figure figcaption ul{
         line-height: 6rem;
     }
@@ -66,7 +66,7 @@ footer *{
     }
 }
     
-@media screen and (max-width: 100rem;){
+@media screen and (max-width: 100rem){
     figure figcaption ul{
         line-height: 6rem;
     }
